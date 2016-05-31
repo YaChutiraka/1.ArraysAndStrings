@@ -1,3 +1,35 @@
+public class isPermutation{
+	public static boolean isPermutation(String str){
+		//assume case is not sensitive
+		//assume white space matters
+		//TOTO
+		return false;
+	}
+	
+	//Test
+	public static void main(String[] args){
+		
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 import java.util.HashMap;
 
 public class _3demo {
@@ -37,3 +69,4 @@ public class _3demo {
 		return false;
 	}
 }
+*/
